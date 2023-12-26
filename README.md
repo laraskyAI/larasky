@@ -106,3 +106,26 @@ chinese woman dressed in oriental with a candle, in the style of dark orange and
 </details>
 </td></tr>
 
+<details>
+<summary>ChatGPT <b>Curiculum Vitae</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/cht1.webp)
+
+```console
+Craft a mockup-scenery for a technical, modern premium and professional Curriculum Vitae (CV). Mixed multi-column template in a modern layout. High-resolution, modern geometric layout, teal and white color scheme, header with name and contact, sections for summary, skills, experience, education, achievements, readable fonts, skill infographics, clean background with color blend, presented on wooden surface, white pen accessory, emphasis on content clarity and professionalism. Laying on a tavble made in birch.
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>Midjourney <b>Futuristic T-Shirt</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/md5.webp)
+
+```console
+incredible futuristic t-shirt design, neon tribal pattern, post-processing, de-noise, ultra realistic, unreal engine --w 1080 --h 1920 --q 2 --s 5000
+```
+
+</details>
+</td></tr>
