@@ -57,3 +57,39 @@ wedding invite acceptance , for Bissan and Omar, purple and white water color ba
 
 </details>
 </td></tr>
+
+<details>
+<summary>Stable Diffusion photography <b>Colorful Woman</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/stbp2.webp)
+
+```console
+Frontal portrait of a whimsical and colorful woman resembling a mermaid or siren. Fair complexion, youthful features, wide open eyes, and delicate freckles on nose and cheeks. Vibrant, gravity-defying hair in shades of purple, blue, orange, and teal. Hair transitions into tendrils or aquatic flora, creating an underwater illusion. Small bubbles floating around the head add to the underwater theme. Attire or visible body part resembles teal and green fish scales with vibrant colors. Overall effect: Serene and otherworldly underwater creature in quiet contemplation.
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>Midjourney portraits <b>Colorful Outfit</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/md1.webp)
+
+```console
+the blue beauty dressed in a very colorful outfit, in the style of brandon woelfel, becky cloonan, uhd image, light red and red, luminescent lightscapes, tanya shatseva, close up, Fujifilm X-T4, Sony FE 85mm f/1. 4 GM --ar 45:56 --q 2 --s 750 --style raw --v 5.1
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>Midjourney photograph <b>bluedress woman</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/md2.webp)
+
+```console
+the woman is in a blue dress, in the style of neon and fluorescent light, zbrush, undulating lines, shallow depth of field, 3d, nicolas delort, light silver and turquoise Fujifilm X-T4, Sony FE 85mm f/1. 4 GM --ar 51:91 --style raw --s 750 --v 5.1
+```
+
+</details>
+</td></tr>
