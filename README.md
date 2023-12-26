@@ -93,3 +93,16 @@ the woman is in a blue dress, in the style of neon and fluorescent light, zbrush
 
 </details>
 </td></tr>
+
+<details>
+<summary>Midjourney Niji Mode <b>Chinese Woman</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/md4.webp)
+
+```console
+chinese woman dressed in oriental with a candle, in the style of dark orange and gold, romantic depictions of historical events, fairycore, webcam photography, historical reproductions, traditional techniques reimagined, made of flowers --ar 2:3 --niji 5
+```
+
+</details>
+</td></tr>
+
