@@ -189,3 +189,40 @@ The art of typographic writing: "ORA NGAPAK - ORA KEPENAK"  Style: typography, c
 
 </details>
 </td></tr>
+
+<details>
+<summary>DALL-E <b>Realistic riding with girl</b></summary>
+
+![](generate/boncengan.jpg)
+
+```console
+foto realistis, lelaki Indonesia muda berboncengan dengan wanita berhijab berpegangan, jalan beraspal sepeda motor Sport biru dengan plat nomor "E 2567 ZM", background pegunungan, gambar realistis detail full ultra Hd
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>DALL-E <b>Karikatur riding with girl</b></summary>
+
+![](generate/karikatur.jpg)
+
+```console
+foto karikatur, lelaki Indonesia muda berboncengan dengan wanita berhijab berpegangan perut lelaki bawa sayur belanja di jalan beraspal sepeda motor lawas warna merah putih dengan plat nomor "E 2567 ZM", background pegunungan, gambar realistis detail full ultra Hd
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>DALL-E <b>Playing Twitter</b></summary>
+
+![](generate/3d boy playing twitter.jpg)
+
+```console
+Create animated 3d art,a little boy,messy hair, wearing Arsenal jacket sobek sobek,white shoes,sitting on yellow gaming chair and playing the twitter social media page with a blue glowing hologram,there are several other cool holographic tools, futuristic, technology,hd 8k,5d animasi
+```
+
+</details>
+</td></tr>
+
