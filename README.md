@@ -217,7 +217,7 @@ foto karikatur, lelaki Indonesia muda berboncengan dengan wanita berhijab berpeg
 <details>
 <summary>DALL-E <b>Playing Twitter</b></summary>
 
-![](generate/3d boy playing twitter.jpg)
+![](generate/3dboyplayingtwitter.jpg)
 
 ```console
 Create animated 3d art,a little boy,messy hair, wearing Arsenal jacket sobek sobek,white shoes,sitting on yellow gaming chair and playing the twitter social media page with a blue glowing hologram,there are several other cool holographic tools, futuristic, technology,hd 8k,5d animasi
