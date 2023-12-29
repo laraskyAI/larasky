@@ -165,3 +165,27 @@ foto realistis, anak kecil indonesia umur 6 tahun sedang bermain di atas lahan s
 
 </details>
 </td></tr>
+
+<details>
+<summary>DALL-E <b>Scotter Matic</b></summary>
+
+![](generate/scottermatic/matic.png)
+
+```console
+a scooter matic motorcycle 2 rear shockbreaker, strong dark black gold yellow black strong color, strong style, complicated, aerodynamic symmentrical, propotionate, side view, mysterious
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>DALL-E <b>Purwokerto</b></summary>
+
+![](generate/purwokerto.png)
+
+```console
+The art of typographic writing: "ORA NGAPAK - ORA KEPENAK"  Style: typography, clearly legible and organized letters. Effect: leaf ornament, ribbon, colorful. Background: White billboard on the roadside of Purwokerto city.
+```
+
+</details>
+</td></tr>
