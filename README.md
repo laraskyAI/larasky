@@ -153,3 +153,15 @@ An imaginative and artistic scene of a fantasy world, with a vibrant landscape t
 
 </details>
 </td></tr>
+
+<details>
+<summary>RealCartoonXL v6 <b>Bermain di atas lahan sawah</b></summary>
+
+![](generate/img-T9VBtrQntZCY2yCPnTyZb.jpeg)
+
+```console
+foto realistis, anak kecil indonesia umur 6 tahun sedang bermain di atas lahan sawah yang berlumpur sambil memegang kodok di telapak kedua tangan nya menjulurkan ke kamera sambil tersenyum di hasil foto hp samsung 21 ultra effect auto fokus cinematik, 360 latar belakang persawahan langit dan awan gambar ultra HD,sangat detail ,photogrphy style pojok samping kiri sangat nyata color HD contras HD,kualitas HD
+```
+
+</details>
+</td></tr>
