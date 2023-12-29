@@ -141,3 +141,15 @@ An imaginative and artistic scene of a fantasy world, with a vibrant landscape t
 
 </details>
 </td></tr>
+
+<details>
+<summary>Essential v1 <b>Indonesian young girl</b></summary>
+
+![](generate/img-T9VBtrQntZCY2yCPnTyZb.jpeg)
+
+```console
+3D caricature photo of an Indonesian young girl wearing hijab no hair, wearing a jacket that says "LARASKY", riding a of DUCATI sleek and modern with black and gold color scheme, displaying its right side. The motorcycle has thick tires with gold rims, a dark body with gold stripes and accents, and an intricate suspension system painted gold, background on asphalt road, with a mountainous, realistic image, full ultra HD details. Use the RenderMan renderer.
+```
+
+</details>
+</td></tr>
