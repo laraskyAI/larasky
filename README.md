@@ -24,7 +24,7 @@ Explore the diverse set of prompts in the Larasky Gallery to inspire your AI pro
 
 
 ## Table of Prompts
-- [Stable Diffusion](#StableDiffusion)
+- [Stable Diffusion](#⩇⩇:⩇𝟙)
 - [DreamShaper](#DreamShaper)
 - [Midjourney](#Midjourney)
 - [Dall-E](#Dall-E)
