@@ -5,7 +5,7 @@
 > SKY HAS NO LIMIT
 
 
-**LARASKY** is AI Prompt Collection
+**LARASKY** is AI Images Prompt Collection
 
 
 # Sky One
