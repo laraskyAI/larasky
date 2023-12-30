@@ -5,11 +5,48 @@
 > SKY HAS NO LIMIT
 
 
-**LARASKY** is AI Images Prompt Collection
+# Larasky Gallery ![Update Daily](https://img.shields.io/badge/Update-Daily-green)
+
+**Larasky Gallery** is a collection of AI image prompts for learning purposes.
+
+## About
+
+Larasky Gallery is a dynamic repository that provides a curated set of AI image prompts. These prompts are designed to facilitate learning and experimentation in the field of artificial intelligence.
+
+## Features
+
+- Curated AI Image Prompts
+- Daily Updates
+
+## Usage
+
+Explore the diverse set of prompts in the Larasky Gallery to inspire your AI projects and enhance your creative thinking.
 
 
-# Sky One
+## Table of Prompts
+- [Stable Diffusion](#StableDiffusion)
+- [DreamShaper](#DreamShaper)
+- [Midjourney](#Midjourney)
+- [Dall-E](#Dall-E)
+- [Essential AI](#EssentialAI)
 
+
+# StableDiffusion
+
+## Overview
+
+Stable Diffusion is a deep learning model designed for text-to-image generation. Released in 2022, this model leverages diffusion techniques to generate high-quality images from textual descriptions.
+[Stable Diffusion Online](https://stablediffusionweb.com/)
+
+## Features
+
+- **Text-to-Image Generation:** Stable Diffusion excels in generating realistic images from textual prompts.
+
+- **Diffusion Techniques:** The model is built on diffusion techniques, a method that aids in the generation of coherent and high-fidelity images.
+
+## Image Prompt Example
+<details>
+  
 <details>
 <summary>Stable Diffusion portraits prompts <b>Beautiful Woman White Hair</b></summary>
 
@@ -47,6 +84,70 @@ Masterpiece, Best Quality, Masterpiece, Best Quality, Masterpiece, Best Quality,
 </td></tr>
 
 <details>
+<summary>Stable Diffusion photography <b>Colorful Woman</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/stbp2.webp)
+
+```console
+Frontal portrait of a whimsical and colorful woman resembling a mermaid or siren. Fair complexion, youthful features, wide open eyes, and delicate freckles on nose and cheeks. Vibrant, gravity-defying hair in shades of purple, blue, orange, and teal. Hair transitions into tendrils or aquatic flora, creating an underwater illusion. Small bubbles floating around the head add to the underwater theme. Attire or visible body part resembles teal and green fish scales with vibrant colors. Overall effect: Serene and otherworldly underwater creature in quiet contemplation.
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>RealCartoonXL v6 <b>Bermain di atas lahan sawah</b></summary>
+
+![](generate/img-42QMr6j1VgxcFYlsu6dxT.png)
+
+```console
+foto realistis, anak kecil indonesia umur 6 tahun sedang bermain di atas lahan sawah yang berlumpur sambil memegang kodok di telapak kedua tangan nya menjulurkan ke kamera sambil tersenyum di hasil foto hp samsung 21 ultra effect auto fokus cinematik, 360 latar belakang persawahan langit dan awan gambar ultra HD,sangat detail ,photogrphy style pojok samping kiri sangat nyata color HD contras HD,kualitas HD
+```
+
+</details>
+</td></tr>
+
+
+
+</details>
+
+
+# DreamShaper
+
+## Overview
+
+DreamShaper is a highly specialized image generation AI model created by AI community user Lykon. Leveraging advanced techniques such as Safetensors and Checkpoint AI, DreamShaper is designed to excel in generating high-quality and unique images based on specific inputs.
+
+## Features
+
+- **Specialization:** DreamShaper is tailored for image generation tasks, providing a unique blend of creativity and precision.
+
+- **Safetensors Integration:** The model incorporates Safetensors, ensuring robust and safe operation during the generation process.
+
+- **Checkpoint AI Model:** DreamShaper utilizes a checkpoint AI model, allowing users to save and resume the generation process at specific points.
+
+## Usage
+
+### Installation
+
+To use DreamShaper, follow these steps:
+
+```bash
+# Clone the DreamShaper repository
+git clone https://github.com/lykon/dreamshaper.git
+
+# Navigate to the project directory
+cd dreamshaper
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+## Image Prompt Examples
+
+<details>
+
+<details>
 <summary>DreamShaper <b>Wedding Invite</b></summary>
 
 ![](https://files.meocloud.my.id/13:/AI/wedin1.webp)
@@ -58,17 +159,21 @@ wedding invite acceptance , for Bissan and Omar, purple and white water color ba
 </details>
 </td></tr>
 
-<details>
-<summary>Stable Diffusion photography <b>Colorful Woman</b></summary>
 
-![](https://files.meocloud.my.id/13:/AI/stbp2.webp)
-
-```console
-Frontal portrait of a whimsical and colorful woman resembling a mermaid or siren. Fair complexion, youthful features, wide open eyes, and delicate freckles on nose and cheeks. Vibrant, gravity-defying hair in shades of purple, blue, orange, and teal. Hair transitions into tendrils or aquatic flora, creating an underwater illusion. Small bubbles floating around the head add to the underwater theme. Attire or visible body part resembles teal and green fish scales with vibrant colors. Overall effect: Serene and otherworldly underwater creature in quiet contemplation.
-```
 
 </details>
-</td></tr>
+
+
+# Midjourney
+
+## Overview
+
+MidJourney is a research laboratory that focuses on expanding the creative abilities of humanity through exploring new forms of thought.
+[MidJourney AI Explore Page](https://www.midjourney.com/explore)
+
+## Image Prompt Examples
+
+<details>
 
 <details>
 <summary>Midjourney portraits <b>Colorful Outfit</b></summary>
@@ -107,18 +212,6 @@ chinese woman dressed in oriental with a candle, in the style of dark orange and
 </td></tr>
 
 <details>
-<summary>ChatGPT <b>Curiculum Vitae</b></summary>
-
-![](https://files.meocloud.my.id/13:/AI/cht1.webp)
-
-```console
-Craft a mockup-scenery for a technical, modern premium and professional Curriculum Vitae (CV). Mixed multi-column template in a modern layout. High-resolution, modern geometric layout, teal and white color scheme, header with name and contact, sections for summary, skills, experience, education, achievements, readable fonts, skill infographics, clean background with color blend, presented on wooden surface, white pen accessory, emphasis on content clarity and professionalism. Laying on a tavble made in birch.
-```
-
-</details>
-</td></tr>
-
-<details>
 <summary>Midjourney <b>Futuristic T-Shirt</b></summary>
 
 ![](https://files.meocloud.my.id/13:/AI/md5.webp)
@@ -130,37 +223,41 @@ incredible futuristic t-shirt design, neon tribal pattern, post-processing, de-n
 </details>
 </td></tr>
 
-<details>
-<summary>ChatGPT <b>Artistic Scene</b></summary>
-
-![](https://files.meocloud.my.id/13:/AI/cht2.webp)
-
-```console
-An imaginative and artistic scene of a fantasy world, with a vibrant landscape that includes floating islands, luminescent flora, and whimsical non-human creatures. The creatures are depicted as friendly and whimsical, engaged in peaceful activities that showcase their harmonious existence. Architectural structures with surreal designs dot the landscape, integrating seamlessly with the natural wonders. The atmosphere is filled with soft glows and bioluminescent lights, casting a magical radiance throughout the scene. The color palette is rich and diverse, featuring a range of vivid colors that add depth and vibrancy to the world. This enchanting scene is suitable for a storybook or a family-friendly fantasy film, designed to inspire wonder and captivate the imagination, free from any explicit or inappropriate content. robiness. masterprompter.
-```
 
 </details>
-</td></tr>
+
+
+
+# Dall-E
+
+## Overview
+
+DALL·E 2, developed by OpenAI, is an advanced AI model that extends the capabilities of its predecessor, DALL·E. It specializes in generating high-quality images based on textual descriptions provided to it in natural language.
+
+## Features
+
+- **Image Generation:** DALL·E 2 excels in generating images from textual prompts, allowing users to describe scenes, objects, or concepts, and the model produces corresponding images.
+
+- **Creative Art:** The system is not limited to realistic depictions but can also create imaginative and abstract art based on textual input.
+
+- **Natural Language Interface:** Users can interact with DALL·E 2 using natural language, making it accessible for a wide range of creative applications.
+
+## Getting Started
+
+To get started with DALL-E 2, visit the official [documentation](https://docs.openai.com/dall-e-2).
+
+
+## Image Prompt Example
 
 <details>
-<summary>Essential v1 <b>Indonesian young girl</b></summary>
-
-![](generate/img-T9VBtrQntZCY2yCPnTyZb.jpeg)
-
-```console
-3D caricature photo of an Indonesian young girl wearing hijab no hair, wearing a jacket that says "LARASKY", riding a of DUCATI sleek and modern with black and gold color scheme, displaying its right side. The motorcycle has thick tires with gold rims, a dark body with gold stripes and accents, and an intricate suspension system painted gold, background on asphalt road, with a mountainous, realistic image, full ultra HD details. Use the RenderMan renderer.
-```
-
-</details>
-</td></tr>
 
 <details>
-<summary>RealCartoonXL v6 <b>Bermain di atas lahan sawah</b></summary>
+<summary>ChatGPT <b>Curiculum Vitae</b></summary>
 
-![](generate/img-42QMr6j1VgxcFYlsu6dxT.png)
+![](https://files.meocloud.my.id/13:/AI/cht1.webp)
 
 ```console
-foto realistis, anak kecil indonesia umur 6 tahun sedang bermain di atas lahan sawah yang berlumpur sambil memegang kodok di telapak kedua tangan nya menjulurkan ke kamera sambil tersenyum di hasil foto hp samsung 21 ultra effect auto fokus cinematik, 360 latar belakang persawahan langit dan awan gambar ultra HD,sangat detail ,photogrphy style pojok samping kiri sangat nyata color HD contras HD,kualitas HD
+Craft a mockup-scenery for a technical, modern premium and professional Curriculum Vitae (CV). Mixed multi-column template in a modern layout. High-resolution, modern geometric layout, teal and white color scheme, header with name and contact, sections for summary, skills, experience, education, achievements, readable fonts, skill infographics, clean background with color blend, presented on wooden surface, white pen accessory, emphasis on content clarity and professionalism. Laying on a tavble made in birch.
 ```
 
 </details>
@@ -286,3 +383,64 @@ merayakan pergantian tahun.suami dewasa indonesia memakai kemeja putih,jaket kul
 
 </details>
 </td></tr>
+
+
+
+</details>
+
+
+
+# EssentialAI
+
+
+## Image Prompt Example
+
+<details>
+
+<details>
+<summary>Essential v1 <b>Indonesian young girl</b></summary>
+
+![](generate/img-T9VBtrQntZCY2yCPnTyZb.jpeg)
+
+```console
+3D caricature photo of an Indonesian young girl wearing hijab no hair, wearing a jacket that says "LARASKY", riding a of DUCATI sleek and modern with black and gold color scheme, displaying its right side. The motorcycle has thick tires with gold rims, a dark body with gold stripes and accents, and an intricate suspension system painted gold, background on asphalt road, with a mountainous, realistic image, full ultra HD details. Use the RenderMan renderer.
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>ChatGPT <b>Artistic Scene</b></summary>
+
+![](https://files.meocloud.my.id/13:/AI/cht2.webp)
+
+```console
+An imaginative and artistic scene of a fantasy world, with a vibrant landscape that includes floating islands, luminescent flora, and whimsical non-human creatures. The creatures are depicted as friendly and whimsical, engaged in peaceful activities that showcase their harmonious existence. Architectural structures with surreal designs dot the landscape, integrating seamlessly with the natural wonders. The atmosphere is filled with soft glows and bioluminescent lights, casting a magical radiance throughout the scene. The color palette is rich and diverse, featuring a range of vivid colors that add depth and vibrancy to the world. This enchanting scene is suitable for a storybook or a family-friendly fantasy film, designed to inspire wonder and captivate the imagination, free from any explicit or inappropriate content. robiness. masterprompter.
+```
+
+</details>
+</td></tr>
+
+
+</details>
+
+
+
+## Contribution
+
+Contributions are welcome! If you have interesting AI image prompts to share, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Connect with us:
+- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com/company/)
+- [Website](https://)
+
+For issues or suggestions, please [create an issue](https://github.com/laraskyAI/larasky/issues).
+
+
