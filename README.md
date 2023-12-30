@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/miftah1725/larasky/main/stb1.webp" width="200" align="right">
 
-## Welcome to LARASKY
+## Welcome to LARASKY ![Update Daily](https://img.shields.io/badge/Update-Daily-green)
 ---
 > SKY HAS NO LIMIT
 
 
-# Larasky Gallery ![Update Daily](https://img.shields.io/badge/Update-Daily-green)
+# $\fbox{\color{red}⩇⩇:⩇⩇  \ \color{blue}Larasky  \ Gallery}$ 
 
 **Larasky Gallery** is a collection of AI image prompts for learning purposes.
 
@@ -31,7 +31,7 @@ Explore the diverse set of prompts in the Larasky Gallery to inspire your AI pro
 - [Essential AI](#EssentialAI)
 
 
-# StableDiffusion
+# $$\fbox{\color{red}⩇⩇:⩇𝟙  \ \color{blue}StableDiffusion}$$ 
 
 ## Overview
 
@@ -112,7 +112,7 @@ foto realistis, anak kecil indonesia umur 6 tahun sedang bermain di atas lahan s
 </details>
 
 
-# DreamShaper
+# $$\fbox{\color{red}⩇⩇:⩇𝟚  \ \color{blue}DreamShaper}$$ 
 
 ## Overview
 
@@ -164,7 +164,7 @@ wedding invite acceptance , for Bissan and Omar, purple and white water color ba
 </details>
 
 
-# Midjourney
+# $$\fbox{\color{red}⩇⩇:⩇𝟛  \ \color{blue}MidJourney}$$ 
 
 ## Overview
 
@@ -228,7 +228,7 @@ incredible futuristic t-shirt design, neon tribal pattern, post-processing, de-n
 
 
 
-# Dall-E
+# $$\fbox{\color{red}⩇⩇:⩇𝟜  \ \color{blue}DALL-E}$$ 
 
 ## Overview
 
@@ -390,7 +390,7 @@ merayakan pergantian tahun.suami dewasa indonesia memakai kemeja putih,jaket kul
 
 
 
-# EssentialAI
+# $$\fbox{\color{red}⩇⩇:⩇𝟝  \ \color{blue}EssentialAI}$$ 
 
 
 ## Image Prompt Example
