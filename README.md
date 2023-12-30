@@ -226,3 +226,41 @@ Create animated 3d art,a little boy,messy hair, wearing Arsenal jacket sobek sob
 </details>
 </td></tr>
 
+<details>
+<summary>DALL-E <b>Youtube Channel</b></summary>
+
+![](generate/channel.jpg)
+
+```console
+seorang pria indonesia berusia 25 tahun rambut hitam pendek rapih memakai baju bola real madrid, berbadan kurus, kulit sawo matang, celana kolor pendek warna hitam, duduk di kursi gaming sambil memegang HP menghadap ke depan. ada komputer sedang bermain game mobile legend di atas meja di sampingnya. latar belakang di dalam kamar YouTube. ada lampu neon yang membentuk tulisan "Nama Anda" gambar realistik
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>DALL-E <b>Karikatur Santosa</b></summary>
+
+![](generate/karikatursantosa.jpg)
+
+```console
+Foto karikatur 3D seorang laki laki umur 52 tahun Indonesia berambut pendek, berjanggut pendek,berkumis hitam campur putih, mengenakan tshirt bergaris warna merah dan putih bertuliskan "santosa", memakai ikat kepala warna hitam bercorak putih, memakai celana besar panjang setengah lutut, melingkar ikat pinggang dipinggangnya
+berdiri tegap , badan agak gemuk, latar belakang warna aurora dengan skema warna hitam dan emas, , detail full ultra HD. Gunakan penyaji RenderMan.
+```
+
+</details>
+</td></tr>
+
+<details>
+<summary>DALL-E <b>Whatsapp Profile</b></summary>
+
+![](generate/larawhatsapp.png)
+
+```console
+Create a 3d illustration of a realistic [GENRE] character sitting relaxed on top of the social media logo "whatsapp". Characters should wear casual modern clothing, a jeans, jacket, and sneaker. The background of the image is a social media profile page with name [NAME]
+```
+
+</details>
+</td></tr>
+
+
