@@ -274,3 +274,15 @@ Seorang lelaki Indonesia berumur 60 Tahun duduk di kursi gaming, sambil merokok,
 
 </details>
 </td></tr>
+
+<details>
+<summary>DALL-E <b>Gamer New Year</b></summary>
+
+![](generate/couplenew.jpg)
+
+```console
+merayakan pergantian tahun.suami dewasa indonesia memakai kemeja putih,jaket kulit hitam,celana hitam sepatu kulit.istri perempuan dewasa indonesia memakai hijab mengenakan gaun yang anggun warna hitam paduan emas.cipratan warna warni kembang api bertuliskan "HAPPY NEW YEAR 2024".latar belakang suasana malam hari yang ramai dipadati warga,cerah dan penuh warna warni lampu.penuh kecerian, canda.terlihat nyata.realistis.detail rumit dan tajam.potret 105mm,F2.8.
+```
+
+</details>
+</td></tr>
