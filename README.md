@@ -24,11 +24,11 @@ Explore the diverse set of prompts in the Larasky Gallery to inspire your AI pro
 
 
 ## Table of Prompts
-- [Stable Diffusion](#⩇⩇:⩇𝟙)
-- [DreamShaper](#DreamShaper)
-- [Midjourney](#Midjourney)
-- [Dall-E](#Dall-E)
-- [Essential AI](#EssentialAI)
+- [Stable Diffusion](#fboxcolorred𝟙---colorbluestablediffusion)
+- [DreamShaper](#fboxcolorred𝟚---colorbluedreamshaper)
+- [Midjourney](#fboxcolorred𝟛---colorbluemidjourney)
+- [Dall-E](#fboxcolorred𝟜---colorbluedall-e)
+- [Essential AI](#fboxcolorred𝟝---colorblueessentialai)
 
 
 # $$\fbox{\color{red}⩇⩇:⩇𝟙  \ \color{blue}StableDiffusion}$$ 
