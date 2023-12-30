@@ -11,7 +11,7 @@
 
 ## About
 
-Larasky Gallery is a dynamic repository that provides a curated set of AI image prompts. These prompts are designed to facilitate learning and experimentation in the field of artificial intelligence.
+**Larasky Gallery** is a dynamic repository that provides a curated set of AI image prompts. These prompts are designed to facilitate learning and experimentation in the field of artificial intelligence.
 
 ## Features
 
@@ -35,7 +35,7 @@ Explore the diverse set of prompts in the Larasky Gallery to inspire your AI pro
 
 ## Overview
 
-Stable Diffusion is a deep learning model designed for text-to-image generation. Released in 2022, this model leverages diffusion techniques to generate high-quality images from textual descriptions.
+**Stable Diffusion** is a deep learning model designed for text-to-image generation. Released in 2022, this model leverages diffusion techniques to generate high-quality images from textual descriptions.
 [Stable Diffusion Online](https://stablediffusionweb.com/)
 
 ## Features
@@ -116,7 +116,7 @@ foto realistis, anak kecil indonesia umur 6 tahun sedang bermain di atas lahan s
 
 ## Overview
 
-DreamShaper is a highly specialized image generation AI model created by AI community user Lykon. Leveraging advanced techniques such as Safetensors and Checkpoint AI, DreamShaper is designed to excel in generating high-quality and unique images based on specific inputs.
+**DreamShaper** is a highly specialized image generation AI model created by AI community user Lykon. Leveraging advanced techniques such as Safetensors and Checkpoint AI, DreamShaper is designed to excel in generating high-quality and unique images based on specific inputs.
 
 ## Features
 
@@ -168,7 +168,7 @@ wedding invite acceptance , for Bissan and Omar, purple and white water color ba
 
 ## Overview
 
-MidJourney is a research laboratory that focuses on expanding the creative abilities of humanity through exploring new forms of thought.
+**MidJourney** is a research laboratory that focuses on expanding the creative abilities of humanity through exploring new forms of thought.
 [MidJourney AI Explore Page](https://www.midjourney.com/explore)
 
 ## Image Prompt Examples
@@ -232,7 +232,7 @@ incredible futuristic t-shirt design, neon tribal pattern, post-processing, de-n
 
 ## Overview
 
-DALL·E 2, developed by OpenAI, is an advanced AI model that extends the capabilities of its predecessor, DALL·E. It specializes in generating high-quality images based on textual descriptions provided to it in natural language.
+**DALL·E**, developed by OpenAI, is an advanced AI model that extends the capabilities of its predecessor, DALL·E. It specializes in generating high-quality images based on textual descriptions provided to it in natural language.
 
 ## Features
 
