@@ -276,7 +276,7 @@ Seorang lelaki Indonesia berumur 60 Tahun duduk di kursi gaming, sambil merokok,
 </td></tr>
 
 <details>
-<summary>DALL-E <b>Gamer New Year</b></summary>
+<summary>DALL-E <b>Couple New Year</b></summary>
 
 ![](generate/couplenew.jpg)
 
