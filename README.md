@@ -263,4 +263,14 @@ Create a 3d illustration of a realistic [GENRE] character sitting relaxed on top
 </details>
 </td></tr>
 
+<details>
+<summary>DALL-E <b>Gamer New Year</b></summary>
 
+![](generate/selamattahunbaru.png)
+
+```console
+Seorang lelaki Indonesia berumur 60 Tahun duduk di kursi gaming, sambil merokok, memakai jaket warna pink, di dalam kamar ada sebuah komputer, dan background layar tulisan "FIRST ID", latar belakang hitam dengan lampu neon bertuliskan "Happy New Year 2024". Gambar sangat realistik nyata. Ultra HD, 8k. Hasil photographer profesional. Full shot image. Detail sangat rumit.
+```
+
+</details>
+</td></tr>
