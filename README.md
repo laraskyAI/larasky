@@ -385,6 +385,18 @@ merayakan pergantian tahun.suami dewasa indonesia memakai kemeja putih,jaket kul
 </td></tr>
 
 
+<details>
+<summary>DALL-E <b>Larasky Universe</b></summary>
+
+![](generate/LARASKYUNIVERSE.png)
+
+```console
+gambar 4D realistis, seorang gadis cantik Indonesia dengan rambut sebahu, berwarna putih, view dari arah atas memakai kaos bertuliskan "LARASKY". sedang berdiri diatas bumi bulat yang tidak terlalu kecil. suasana objek sekitar menggambarkan galaksi Bimasakti dan hiasannya tata Surya. gambar sangat HD, detail rumit, hasil photography profesional.
+```
+
+</details>
+</td></tr>
+
 
 </details>
 
