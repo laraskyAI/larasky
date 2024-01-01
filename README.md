@@ -397,6 +397,20 @@ gambar 4D realistis, seorang gadis cantik Indonesia dengan rambut sebahu, berwar
 </details>
 </td></tr>
 
+<details>
+<summary>DALL-E <b>Spiderman from future</b></summary>
+
+![](generate/spiderf.png)
+
+```console
+anak 4 tahun Indonesia, memakai pakaian casual, celana jeans, wajah tersenyum, sedang selfie bersama spiderman, kostum futuristik dengan teknologi robotik,semua mata tertuju padanya, background persawahan, detail rumit, hasil photographer, 8k
+```
+
+</details>
+</td></tr>
+
+
+
 
 </details>
 
