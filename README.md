@@ -410,6 +410,19 @@ anak 4 tahun Indonesia, memakai pakaian casual, celana jeans, wajah tersenyum, s
 </td></tr>
 
 
+<details>
+<summary>DALL-E <b>Giant Gundam</b></summary>
+
+![](generate/Ggundam.png)
+
+```console
+giant gundam wing zero fighting ,location richly illustrated, denoise, insanely detailed metal parts, realisticly colored, cinematic lights and 8k virtual efects. Ultrarealistic, 3D hyper photorealistic
+```
+
+</details>
+</td></tr>
+
+
 
 
 </details>
