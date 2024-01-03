@@ -423,6 +423,18 @@ giant gundam wing zero fighting ,location richly illustrated, denoise, insanely 
 </td></tr>
 
 
+<details>
+<summary>DALL-E <b>Larasky gold paint</b></summary>
+
+![](generate/lara003.png)
+
+```console
+create a 3d image with text "Larasky", in pearl white colored letters, with an asian hand with gold nails holding a paint brush. The background should have a spill of gold glitter in one corner setup on a rose gold airbrushed background
+```
+
+</details>
+</td></tr>
+
 
 
 </details>
