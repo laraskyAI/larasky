@@ -436,6 +436,46 @@ create a 3d image with text "Larasky", in pearl white colored letters, with an a
 </td></tr>
 
 
+<details>
+<summary>DALL-E <b>Larasky PUBG</b></summary>
+
+![](generate/laraPUBG.png)
+
+```console
+Create a hyper realistic illustration a 25 year old Indonesian woman wearing a Yellow, Black Larasky hoodie suit and puma shoes jumping out of an android Mobile playing the Pubg Mobile game PUBG : BATTLEGROUNDS The background Of The Image Showcase Pubg Battlegrounds in full 32K UHD glossy.
+```
+
+</details>
+</td></tr>
+
+
+<details>
+<summary>DALL-E <b>Larasky Smoke</b></summary>
+
+![](generate/larasmoke.png)
+
+```console
+ultra realistic Indonesian blue eyed woman with ripped jeans and a hoodie with gold name "Larasky", smoking MaryJane sitting at the edge of the universe
+```
+
+</details>
+</td></tr>
+
+
+
+<details>
+<summary>DALL-E <b>I'm Larasky</b></summary>
+
+![](generate/imlarasky.png)
+
+```console
+cinematic powerful Indonesian woman, white skin, white hair, giant hoop earrings, gold bangles, in clean blue corridor with metallic copper panels on walls, glass filled with champagne, machete in hand, wearing purple crop top that says "I'M LARASKY" with chains belt, purple silk pants, teal lipstick, teal dreadlocks, raging flames on candles in background, hyper realism
+```
+
+</details>
+</td></tr>
+
+
 
 </details>
 
