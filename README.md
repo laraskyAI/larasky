@@ -476,6 +476,21 @@ cinematic powerful Indonesian woman, white skin, white hair, giant hoop earrings
 </td></tr>
 
 
+<details>
+<summary>DALL-E <b>Samurai Lara</b></summary>
+
+![](generate/samuraigirl.png)
+
+```console
+Portrait of a 3D Chinese woman with long black hair with a ponytail hairstyle. a sword beside her. The character wears a black hoodie and skirt. The background of a 3d dragon in neon blue yellow pink colors
+```
+
+</details>
+</td></tr>
+
+
+
+
 
 </details>
 
