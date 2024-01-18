@@ -488,6 +488,18 @@ Portrait of a 3D Chinese woman with long black hair with a ponytail hairstyle. a
 </details>
 </td></tr>
 
+<details>
+<summary>DALL-E <b>Realistic Girl</b></summary>
+
+![](generate/realisticgirl.png)
+
+```console
+a 20 year old girl, of indonesian ethnicity, white hair, dressed in simple clothes, her face full sweat and slighty blue, due to the cold, sitting outside the house, heavy rain around her. expression of suffering from cold while shivering. The film was shot with the best camera in the world, ultra HD, 16k, super detailed, extreme realistic.
+```
+
+</details>
+</td></tr>
+
 
 
 
